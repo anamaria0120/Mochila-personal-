@@ -1,0 +1,41 @@
+
+.fondomenu{
+    background-color: rgba(0, 0, 0, 0.836);
+    color:white;
+}
+
+.fondonav{
+    background-color: orange;
+    color: white;
+}
+
+.imgprincipal{
+    background-size: auto;
+}
+
+footer{
+position: absolute;
+width: 1024px;
+height: 20px;
+left: calc(50% - 1024px/2);
+bottom: 0px;
+
+background: #222222;
+}
+
+.letrafooter{
+position: absolute;
+width: 186px;
+height: 12px;
+left: calc(50% - 186px/2);
+bottom: 4px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+
+
+color: #FFFFFF;
+}
